@@ -1,0 +1,33 @@
+# SIHRE FAQ
+
+## Is SIHRE a model?
+
+No. SIHRE is a framework for coordinating multiple reasoning modalities.
+
+## Is SIHRE an ensemble?
+
+Yes, but not only in the conventional sense. SIHRE is a heterogeneous reasoning ensemble governed by a meta-orchestrator.
+
+## What makes SIHRE different from mixture-of-experts?
+
+Mixture-of-experts typically routes inputs among model experts. SIHRE generalizes routing to reasoning modalities, memory, verification, uncertainty, simulation, and adaptation.
+
+## Is SIHRE domain-specific?
+
+No. SIHRE is intended as a domain-general architecture.
+
+## Does SIHRE guarantee correct decisions?
+
+No. SIHRE is a framework for improving reasoning governance under uncertainty. It does not guarantee correctness.
+
+## What is self-improving in SIHRE?
+
+Self-improvement means bounded updates to memory, expert trust, routing preferences, and research priorities based on outcomes.
+
+## Can SIHRE abstain?
+
+Yes. Abstention or deferral is an important part of uncertainty-aware reasoning governance.
+
+## Can SIHRE be used in high-stakes domains?
+
+Potentially, but only with strong validation, auditability, human oversight, and safety constraints.
